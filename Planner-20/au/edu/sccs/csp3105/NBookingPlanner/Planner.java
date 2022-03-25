@@ -1,5 +1,5 @@
 package au.edu.sccs.csp3105.NBookingPlanner;
-/* some modifications made to the code from University of South Carolina: package MeetingPlanner */
+/* some modifications made to the code from University of South Carolina: package MeetingPlanner. */
  
 
 
